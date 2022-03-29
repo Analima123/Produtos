@@ -1,0 +1,4 @@
+Categoria = 12, Nome= 12, Marca = 12, Preço =12.0
+Categoria = 5, Nome= 5, Marca = 5, Preço =5.0
+Categoria = 3, Nome= 3, Marca = 3, Preço =3.0
+Categoria = 7, Nome= 7, Marca = 7, Preço =7.0

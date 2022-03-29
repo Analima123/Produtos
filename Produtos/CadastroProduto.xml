@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Produtos>
+    <produto id="1"/>
+    <Categoria>12</Categoria>
+    <Produto>12</Produto>
+    <Marca>
+        <NomeDaMarca>12</NomeDaMarca>
+        <Preco>12.0</Preco>
+    </Marca>
+    <produto id="1"/>
+    <Categoria>5</Categoria>
+    <Produto>5</Produto>
+    <Marca>
+        <NomeDaMarca>5</NomeDaMarca>
+        <Preco>5.0</Preco>
+    </Marca>
+    <produto id="1"/>
+    <Categoria>3</Categoria>
+    <Produto>3</Produto>
+    <Marca>
+        <NomeDaMarca>3</NomeDaMarca>
+        <Preco>3.0</Preco>
+    </Marca>
+    <produto id="1"/>
+    <Categoria>7</Categoria>
+    <Produto>7</Produto>
+    <Marca>
+        <NomeDaMarca>7</NomeDaMarca>
+        <Preco>7.0</Preco>
+    </Marca>
+</Produtos>
